@@ -1,0 +1,7 @@
+Write The Code for the following code  using java .print the character that are present on the even index
+input ="saurabh";
+O/P=  s u a h
+
+Capital the 1st and last character in the string using java 
+input = "saurabh";
+O/P = SaurabH
